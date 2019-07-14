@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Div.cpp
+  Error.cpp
+  FST.cpp
+\\mac\home\desktop\iap\lab_16\lab_16\fst.cpp(61): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Greibach.cpp
+  In.cpp
+  IT.cpp
+  lab16.cpp
+  LexAnaliz.cpp
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+\\mac\home\desktop\iap\lab_16\lab_16\mfst.cpp(233): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Parm.cpp
+  PolishNotation.cpp
+  Создание кода...
+  lab_16.vcxproj -> \\Mac\Home\Desktop\iap\lab_16\Debug\lab_16.exe
